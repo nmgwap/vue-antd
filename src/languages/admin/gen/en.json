@@ -1,0 +1,9 @@
+{
+    "tableName": "user db host ",
+    "packageName": "package name",
+    "author": "author",
+    "moduleName": "module",
+    "tablePrefix": "table prefix",
+    "comments": "annotation",
+    "emp": "Can be null, load the system default configuration"
+}

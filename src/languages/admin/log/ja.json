@@ -1,0 +1,10 @@
+{
+    "type": "タイプ",
+    "selecttype": "型を選んでください",
+    "title": "タイトル",
+    "remoteAddr": "IPアドレス",
+    "method": "請求方式",
+    "serviceId": "クライアント",
+    "time": "リクエストタイム",
+    "createTime": "創建時期"
+}

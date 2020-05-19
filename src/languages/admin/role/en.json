@@ -1,0 +1,10 @@
+{
+    "unit": "Subordinate departments",
+    "selectunit": "Please select your department",
+    "roleName": "Character name",
+    "inproleName": "Please enter a role name",
+    "roleCode": "Role identification",
+    "inproleCode": "Please enter a role id",
+    "roleDesc": "Role description",
+    "inproleDesc": "Please enter a role description"
+}

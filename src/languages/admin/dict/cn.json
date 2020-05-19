@@ -1,0 +1,14 @@
+{
+    "type":"类型",
+    "inptype":"请输入类型",
+    "value":"数据值",
+    "inpvalue":"请输入数据值",
+    "label":"标签名",
+    "inplabel":"请输入标签名",
+    "description":"描述",
+    "inpdescription":"请输入描述",
+    "sort":"排序",
+    "inpsort":"请输入排序",
+    "remarks":"备注信息",
+    "inpremarks":"请输入备注信息"
+}

@@ -1,0 +1,9 @@
+{
+    "tableName": "表名称",
+    "packageName": "カバンの人",
+    "author": "著者",
+    "moduleName": "モジュール",
+    "tablePrefix": "表接頭辞",
+    "comments": "注釈",
+    "emp": "空であってもよく、デフォルトのデフォルト構成がロードされる"
+}

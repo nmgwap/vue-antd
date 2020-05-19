@@ -1,0 +1,22 @@
+{
+    "parentId": "父级节点",
+    "inpparentId": "请输入父级节点",
+    "menuId": "节点ID",
+    "inpmenuId": "请输入节点ID",
+    "name": "菜单名称",
+    "inpname": "请输入菜单名称",
+    "permission": "权限标识",
+    "inppermission": "请输入权限标识",
+    "icon": "图标",
+    "inpicon": "请输入图标",
+    "type": "类型",
+    "inptype": "请选择类型",
+    "sort": "排序",
+    "inpsort": "请输入排序",
+    "component": "前端组件",
+    "inpcomponent": "请输入前端组件",
+    "path": "前端地址",
+    "inppath": "请输入前端地址",
+    "selecteditmenu": "请选择要编辑的菜单",
+    "selectdeletemenu": "请选择要删除的菜单"
+}

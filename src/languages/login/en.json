@@ -1,0 +1,10 @@
+{
+    "loginTitle": "users login",
+    "user": "username",
+    "inputuser": "Please enter user name!",
+    "password": "password",
+    "inputpassword": "Please enter your password!",
+    "code": "auth code",
+    "inputcode": "Please enter the verification code!",
+    "login": "log in"
+}

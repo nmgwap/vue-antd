@@ -1,0 +1,14 @@
+{
+    "type":"type",
+    "inptype":"Please enter type",
+    "value":"data value",
+    "inpvalue":"Please enter a data value",
+    "label":"Tag name",
+    "inplabel":"Please enter a label name",
+    "description":"describe",
+    "inpdescription":"Please enter description",
+    "sort":"sort",
+    "inpsort":"Please enter sort",
+    "remarks":"Note information",
+    "inpremarks":"Please enter remarks"
+}

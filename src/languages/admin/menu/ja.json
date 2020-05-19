@@ -1,0 +1,22 @@
+{
+    "parentId": "親ノード",
+    "inpparentId": "親ノードを入力してください",
+    "menuId": "ノードID",
+    "inpmenuId": "ノードIDを入力してください",
+    "name": "メニュー名",
+    "inpname": "メニュー名を入力してください",
+    "permission": "権限表示",
+    "inppermission": "権限表示を入力してください",
+    "icon": "アイコン",
+    "inpicon": "アイコンを入力してください",
+    "type": "タイプ",
+    "inptype": "型を選んでください",
+    "sort": "序列",
+    "inpsort": "ソートキーを入力してください",
+    "component": "フロントエンド",
+    "inpcomponent": "フロントエンドを入力してください",
+    "path": "先頭アドレス",
+    "inppath": "先端アドレスを入力してください",
+    "selecteditmenu": "編集するメニューを選択してください",
+    "selectdeletemenu": "削除するメニューを選択してください"
+}

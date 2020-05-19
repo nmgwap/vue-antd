@@ -1,0 +1,10 @@
+{
+    "parentId": "父级节点",
+    "inpparentId": "请输入父级节点",
+    "name": "部门名称",
+    "inpname": "请输入部门名称",
+    "sort": "排序",
+    "inpsort": "请输入排序",
+    "selectEditMenu": "请选择要编辑的菜单",
+    "selectDeleteMenu": "请选择要删除的菜单"
+}

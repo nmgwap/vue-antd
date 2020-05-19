@@ -1,0 +1,14 @@
+{
+    "username": "ユーザー名",
+    "inpusername": "ユーザー名を入力してください",
+    "password": "パスワード",
+    "inppassword": "暗証番号を入力してください",
+    "dept": "所属部署",
+    "selectdept": "所属部署を選んでください",
+    "phone": "携帯電話番号",
+    "inpphone": "携帯番号を入力してください",
+    "role": "役",
+    "selectrole": "役を選んでください",
+    "lockFlag": "状态",
+    "selectlockFlag": "状態を選んでください"
+}

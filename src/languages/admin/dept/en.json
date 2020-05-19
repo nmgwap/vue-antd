@@ -1,0 +1,10 @@
+{
+    "parentId": "parent node",
+    "inpparentId": "Please enter a parent node",
+    "name": "Department name",
+    "inpname": "Please enter the department name",
+    "sort": "sort",
+    "inpsort": "Please enter sort",
+    "selectEditMenu": "Please select the menu to edit",
+    "selectDeleteMenu": "Please select the menu to delete"
+}

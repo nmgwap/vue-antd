@@ -1,0 +1,10 @@
+{
+    "type": "类型",
+    "selecttype": "Please select type",
+    "title": "title",
+    "remoteAddr": "IP Address",
+    "method": "Request way",
+    "serviceId": "client",
+    "time": "Request time",
+    "createTime": "Creation time"
+}
