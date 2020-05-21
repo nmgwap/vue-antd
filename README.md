@@ -112,5 +112,11 @@ yarn lint
 #### 项目源码地址：
 ------------------------
 
-码云地址：https://gitee.com/nmgwap/vue-antd
+码云地址：https://gitee.com/nmgwap/vue-antd  
+
+
+#### 微信公众号
+------------------------  
+
+<img src="/src/static/wx.jpg"  width = "270" height = "270"/>
 
